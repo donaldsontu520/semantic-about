@@ -1,6 +1,5 @@
-
 :root {
-    color: lightblue;
+   color: rgb(195, 90, 90);
 
  
 }
@@ -10,7 +9,7 @@ body {
 }
 
 header, nav, main, article, aside, footer {
-    border: 4px solid ; border-color: white;
+    border: 4px solid ; border-color: darkred;
     margin: 12px;
     padding: 10px;
 }
@@ -23,6 +22,7 @@ img {
 article {
     float: left;
     width: 65%;
+    
 }
 
 aside {
